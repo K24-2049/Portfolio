@@ -1,0 +1,260 @@
+.bigcont{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+   /* justify-content: center;*/
+}
+.header{
+    height: 10vh;
+    width: 100wh;
+    background-color: palevioletred;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    font-size: xxx-large;
+    font-family:fantasy;
+}
+.footer{
+    height: 10vh;
+    width: 100vw;
+    background-color: lightgrey;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+
+}
+.info li{
+    display: inline;
+    padding: 30px;
+}
+.box1{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box2{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box3{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box4{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box5{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box6{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box7{
+    height: 9vh;
+    width: 100vw;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hk1{
+    height: 40vh;
+    width: 100vw;
+    background-color: palevioletred;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.rk1{
+    width: 60vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    background-color: palevioletred;
+    font-size: x-large;
+    align-items: center;
+    margin: 30px;
+}
+.rk2{
+    width: 50vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+}
+.abtme{
+    margin: 50px;
+}
+.hk2{
+    width: 100vw;
+    height: 40vh;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.sk1{
+    width: 50vw;
+    height: 40vh;
+    background-color: palevioletred;
+    margin: 50px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.sk2{
+    width: 50vw;
+    height: 40vh;
+    background-color: palevioletred;
+    margin: 50px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.hk3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+}
+.hobbies li{
+display: inline;
+padding: 30px;
+align-items: center;
+}
+.hk4{
+    height: 20vh;
+    width: 100vw;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ak1{
+    margin: 60px;
+}
+.ak2{
+    margin: 60px;
+}
+.hk5{
+    background-color: palevioletred;
+}
+.vision{
+    font-size: large;
+    margin: 30px;
+    background-color: palevioletred;
+}
+.hk6{
+    height: 50vh;
+    width: 100vw;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.wk1{
+    width: 70vw;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    background-color: palevioletred;
+    font-size: larger;
+    align-items: center;
+    margin: 30px;
+}
+.wk2{
+    width: 30vw;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    background-color: palevioletred;
+    font-size: larger;
+    align-items: center;
+}
+.rm li{
+    margin: 20px;
+}
+.ik{
+    padding-right: 20px;
+}
+.hk7{
+    height: 80vh;
+    width: 100vw;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.mk1{
+    height: 20vh;
+    width: 100vw;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.mk2{
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right:20px;
+}
+.mem{
+    margin: 30px;
+}
